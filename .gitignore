@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/.vscode/
 
 /[Aa]ssets/SteamVR/
 /[Aa]ssets/SteamVR_Input/
